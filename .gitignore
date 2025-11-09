@@ -57,6 +57,7 @@ realm/*
 
 # POL MULs
 MUL/*
+mul/*
 
 # Sublime Text files
 *.sublime-project
